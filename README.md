@@ -7,8 +7,8 @@
    How to reach me **mustafacansahinbas@hotmail.com**
    
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RubyWallby&layout=compact)](https://github.com/RubyWallby)
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=RubyWallby&show_icons=true&theme=algolia" ;"alt="RubyWallby" /></p>
-<p align="center">
+<p> <img align="right" src="https://github-readme-stats.vercel.app/api?username=RubyWallby&show_icons=true&theme=algolia" ;"alt="RubyWallby" /></p>
+<p align="right">
   
    [![Youtube](https://img.shields.io/static/v1?label=&message=Youtube&color=red)](https://www.youtube.com/channel/UCYgBiFaOYnJ_QYJvgNXAiEw)
    [![Linkedin](https://img.shields.io/badge/-Mustafa%20Can%20ŞAHİNBAŞ-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mustafa-can-%C5%9Fahinba%C5%9F-b736361a7)](https://www.linkedin.com/in/mustafa-can-%C5%9Fahinba%C5%9F-b736361a7)
