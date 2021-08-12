@@ -1,7 +1,7 @@
                                       Hi,  👋 I'M MUSTAFA CAN ŞAHİNBAŞ
 
-    All of my projects are available at mcansahinbas.com
-    How to reach me ? --> mustafacansahinbas@hotmail.com
+    All of my projects are available at "**mcansahinbas.com**"
+    How to reach me ? --> **mustafacansahinbas@hotmail.com**
     
                                           CONTACT ME 
     
