@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mustafa Can ŞAHİNBAŞ</h1>
 <h3 align="center">Computer engineering student from Turkey</h3>
-   All of my projects are available at "**https://mustafacansahinbas.com**"
+   All of my projects are available at "https://mustafacansahinbas.com"
+   
    How to reach me **mustafacansahinbas@hotmail.com**
    
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RubyWallby&layout=compact)](https://github.com/RubyWallby)
